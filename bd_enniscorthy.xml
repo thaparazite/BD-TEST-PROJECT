@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bdLocation>
+    <facility>
+        <name>BD Enniscorthy</name>
+        <location>
+            <city>Enniscorthy</city>
+            <county>County Wexford</county>
+            <country>Ireland</country>
+        </location>
+        <department>
+            <name>Manufacturing</name>
+            <description>BD Enniscorthy manufacturing facility specializing in medical devices</description>
+        </department>
+        <department>
+            <name>Quality Assurance</name>
+            <description>Quality control and assurance for BD products</description>
+        </department>
+        <contact>
+            <email>info@bd-enniscorthy.com</email>
+            <phone>+353-53-9234567</phone>
+        </contact>
+    </facility>
+</bdLocation>
